@@ -14,8 +14,8 @@ This repository contains a collection of lecture notes, solved assignments, codi
 
 🚀 How to Use
 
-✅ **Browse the relevant folders to access lecture notes and assignments.
-✅ **If you’d like to contribute, feel free to open an Issue or submit a Pull Request.
-✅ **If you find any errors or have suggestions for improvement, let us know!
+✅ **Browse the relevant folders to access lecture notes and assignments.**  
+✅ **If you’d like to contribute, feel free to open an Issue or submit a Pull Request.**  
+✅ **If you find any errors or have suggestions for improvement, let us know!**  
 
 📌 Happy Learning! 🚀
