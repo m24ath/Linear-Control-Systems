@@ -7,13 +7,10 @@ Linear Control Systems is a fundamental branch of control engineering that focus
 This repository contains a collection of lecture notes, solved assignments, coding projects, and learning resources that can be useful for students, researchers, and enthusiasts in the field of linear control systems. The content will be updated regularly to ensure access to high-quality and practical materials.
 📂 Repository Contents
 
-🔹 Lecture Notes: Course materials and key theoretical concepts
-
-🔹 Assignments & Solutions: Sample problems with step-by-step solutions
-
-🔹 Projects & Code: Implementations and simulations of control systems using MATLAB and Python
-
-🔹 Recommended Resources: Books, articles, and useful links for further study
+🔹 **Lecture Notes:** Course materials and key theoretical concepts  
+🔹 **Assignments & Solutions:** Sample problems with step-by-step solutions  
+🔹 **Projects & Code:** Implementations and simulations of control systems using MATLAB and Python  
+🔹 **Recommended Resources:** Books, articles, and useful links for further study  
 
 🚀 How to Use
 
