@@ -11,7 +11,7 @@ This repository contains a collection of lecture notes, solved assignments, codi
 🔹 **Projects & Code:** Implementations and simulations of control systems using MATLAB and Python  
 🔹 **Recommended Resources:** Books, articles, and useful links for further study  
 
-🚀 **How to Use** 
+### 🚀 How to Use
 ✅ **Browse the relevant folders to access lecture notes and assignments.**  
 ✅ **If you’d like to contribute, feel free to open an Issue or submit a Pull Request.**  
 ✅ **If you find any errors or have suggestions for improvement, let us know!**  
