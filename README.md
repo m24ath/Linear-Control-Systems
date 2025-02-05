@@ -8,7 +8,6 @@ This repository contains a collection of lecture notes, solved assignments, codi
 📂 Repository Contents
 
 🔹 Lecture Notes: Course materials and key theoretical concepts
-
 🔹 Assignments & Solutions: Sample problems with step-by-step solutions
 
 🔹 Projects & Code: Implementations and simulations of control systems using MATLAB and Python
