@@ -1,4 +1,4 @@
-# Linear-Control-Systems
+# Linear Control Systems
 ### 📌 Linear Control Systems 
 Linear Control Systems is a fundamental branch of control engineering that focuses on analyzing and designing systems whose input-output relationships can be modeled using linear equations. This course covers key topics such as transient and steady-state response, system stability, compensator design, root locus, frequency domain analysis, and feedback control. The goal of this course is to provide essential tools for analyzing and designing classical control systems, which are widely used in industries like robotics, aerospace, automotive, and electrical engineering.
 
